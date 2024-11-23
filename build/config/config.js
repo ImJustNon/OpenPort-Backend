@@ -10,7 +10,7 @@ dotenv_1.default.config();
 exports.config = {
     port: parseInt((_a = process.env.PORT) !== null && _a !== void 0 ? _a : "8080"),
     baseUrl: (_b = process.env.BASEURL) !== null && _b !== void 0 ? _b : "",
-    allowedOrigins: ["http://127.0.0.1:8899", "http://localhost:8899"],
+    allowedOrigins: ["http://127.0.0.1:8899", "http://localhost:8899", "https://openport-frontend.vercel.app"],
     jwtSecret: process.env.JWT_SECRET || "no"
 };
 //# sourceMappingURL=config.js.map
