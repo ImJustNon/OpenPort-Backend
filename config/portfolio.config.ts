@@ -433,8 +433,8 @@ export const portfoioConfig: PortfolioConfig[] = [
     },
     {
         id: "12",
-        name: "MASTER Portfolio มหาลัย",
-        description: "Portfolio Template สำหรับไปประกอบเเต่ละมหาลัย",
+        name: "SBTVC Portfolio หมาๆ",
+        description: "Portfolio หมาๆ",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/1.png",
             inner: [
