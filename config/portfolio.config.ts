@@ -6,7 +6,7 @@ export const portfoioConfig: PortfolioConfig[] = [
         name: "CEDT CU Portfolio มหาลัย",
         description: "Portfolio ส่ง CU",
         sources: {
-            cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/.png",
+            cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/1.png",
             inner: [
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/1.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/2.png",
