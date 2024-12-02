@@ -4,8 +4,7 @@ import { PortfolioConfig } from "../types/index.type";
 
 
 export function portfolioPopularController(req: Request, res: Response): void {
-    // const popularPort: PortfolioConfig[] = portfoioConfig.filter((port: PortfolioConfig) => port.categories.includes("popular"));
-    const popularPort: PortfolioConfig[] = portfoioConfig.filter((port: PortfolioConfig) => true);
+    const popularPort: PortfolioConfig[] = portfoioConfig.filter((port: PortfolioConfig) => port.categories.includes("popular"));
     res.status(200).json({
         status: "OK",
         message: "Popular Port",
