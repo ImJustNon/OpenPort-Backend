@@ -4,8 +4,8 @@ exports.portfoioConfig = void 0;
 exports.portfoioConfig = [
     {
         id: "1",
-        name: "CEDT CU Portfolio มหาลัย",
-        description: "Portfolio ส่ง CU",
+        name: "สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+        description: "โครงการรับนักเรียนผู้มีความสามารถทางวิชาการเข้าศึกษาในหลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/1.png",
             inner: [
