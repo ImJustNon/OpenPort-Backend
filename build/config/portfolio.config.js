@@ -215,7 +215,7 @@ exports.portfoioConfig = [
         tags: [
             "KMUTT", "Non"
         ],
-        university: "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+        university: "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี(KMUTT)",
         faculty: "SIT",
         branch: ["เทคโนโลยีสารสนเทศ", "SIT"],
         program: "โครงการ Early Active Recruitment",
@@ -252,7 +252,7 @@ exports.portfoioConfig = [
         tags: [
             "KU", "Non"
         ],
-        university: "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
+        university: "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน(KU)",
         faculty: "engineering",
         branch: ["วิศวกรรมคอมพิวเตอร์", "CPE"],
         program: "โครงการช้างเผือก",
@@ -288,13 +288,197 @@ exports.portfoioConfig = [
         tags: [
             "MFU", "Non"
         ],
-        university: "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
+        university: "มหาวิทยาลัยแม่ฟ้าหลวง(MFU)",
         faculty: "engineering",
         branch: ["วิศวกรรมคอมพิวเตอร์", "CPE"],
         program: "โครงการรับตรงสำนักวิชา",
         author: "Non",
         language: "th",
         pages: 10,
+        type: "portfolio",
+        categories: ["popular"],
+        results: {
+            interview: true,
+            pass: true
+        }
+    },
+    {
+        id: "9",
+        name: "V2 CPE KMUTT Portfolio มหาลัย",
+        description: "Portfolio ส่ง KMUTT",
+        sources: {
+            cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/1.png",
+            inner: [
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/1.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/2.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/3.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/5.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/6.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/7.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/8.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/9.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/10.png",
+            ]
+        },
+        tags: [
+            "KMUTT", "Non"
+        ],
+        university: "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี(KMUTT)",
+        faculty: "engineering",
+        branch: ["วิศวกรรมคอมพิวเตอร์", "CPE"],
+        program: "โครงการรับนักศึกษาโควตาโรงเรียนกลุ่มเป้าหมาย",
+        author: "Non",
+        language: "th",
+        pages: 10,
+        type: "portfolio",
+        categories: ["popular"],
+        results: {
+            interview: true,
+            pass: true
+        }
+    },
+    {
+        id: "10",
+        name: "AR CPE KMUTT Portfolio มหาลัย",
+        description: "Portfolio ส่ง KMUTT",
+        sources: {
+            cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/1.png",
+            inner: [
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/1.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/2.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/3.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/5.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/6.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/7.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/8.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/9.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/10.png",
+            ]
+        },
+        tags: [
+            "KMUTT", "Non"
+        ],
+        university: "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี(KMUTT)",
+        faculty: "engineering",
+        branch: ["วิศวกรรมคอมพิวเตอร์", "CPE"],
+        program: "โครงการ Active Recruitment",
+        author: "Non",
+        language: "th",
+        pages: 10,
+        type: "portfolio",
+        categories: ["popular"],
+        results: {
+            interview: true,
+            pass: true
+        }
+    },
+    {
+        id: "11",
+        name: "MASTER Portfolio มหาลัย",
+        description: "Portfolio Template สำหรับไปประกอบเเต่ละมหาลัย",
+        sources: {
+            cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/1.png",
+            inner: [
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/1.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/2.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/3.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/5.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/6.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/7.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/8.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/9.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/10.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/11.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/12.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/13.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/14.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/15.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/16.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/17.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/18.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/19.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/20.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/21.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/22.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/23.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/24.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/25.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/26.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/27.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/28.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/29.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/30.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/31.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MASTER/32.png",
+            ]
+        },
+        tags: [
+            "MASTER", "Non"
+        ],
+        university: "ETC.",
+        faculty: "ETC.",
+        branch: ["อื่นๆ", "ETC."],
+        program: "ETC.",
+        author: "Non",
+        language: "th",
+        pages: 32,
+        type: "portfolio",
+        categories: ["popular"],
+        results: {
+            interview: true,
+            pass: true
+        }
+    },
+    {
+        id: "12",
+        name: "SBTVC Portfolio หมาๆ",
+        description: "Portfolio หมาๆ",
+        sources: {
+            cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/1.png",
+            inner: [
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/1.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/2.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/3.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/5.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/6.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/7.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/8.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/9.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/10.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/11.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/12.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/13.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/14.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/15.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/16.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/17.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/18.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/19.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/20.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/21.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/22.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/23.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/24.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/25.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/26.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/27.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/28.png",
+            ]
+        },
+        tags: [
+            "SBTVC", "Non", ""
+        ],
+        university: "Science-Based Technology Vocational College (Chonburi)",
+        faculty: "พาณิชยกรรมเเละบริการฐานวิทยาศาสตร์",
+        branch: ["เทคโนโลยีสารสนเทศ", "Information Technology", "IT"],
+        program: "โครงการวิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์",
+        author: "Non",
+        language: "th",
+        pages: 28,
         type: "portfolio",
         categories: ["popular"],
         results: {
