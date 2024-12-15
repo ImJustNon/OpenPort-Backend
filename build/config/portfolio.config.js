@@ -4,7 +4,7 @@ exports.portfoioConfig = void 0;
 exports.portfoioConfig = [
     {
         id: "1",
-        name: "สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+        name: "วิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล จุฬาลงกรณ์มหาวิทยาลัย",
         description: "โครงการรับนักเรียนผู้มีความสามารถทางวิชาการเข้าศึกษาในหลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/1.png",
@@ -43,8 +43,8 @@ exports.portfoioConfig = [
     },
     {
         id: "2",
-        name: "CPE CMU Portfolio มหาลัย",
-        description: "Portfolio ส่ง CMU",
+        name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเชียงใหม่",
+        description: "โครงการรับนักเรียนที่มีอัจฉริยภาพทางคอมพิวเตอร์ สาขาวิศวกรรมคอมพิวเตอร์ ภาคปกติ (หลักสูตร ไทย) มหาวิทยาลัยเชียงใหม่",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/1.png",
             inner: [
@@ -68,7 +68,7 @@ exports.portfoioConfig = [
         university: "มหาวิทยาลัยเชียงใหม่(CMU)",
         faculty: "engineering",
         branch: ["สาขาวิศวกรรมคอมพิวเตอร์ ภาคปกติ (หลักสูตร ไทย)", "CPE"],
-        program: "สาขาวิศวกรรมคอมพิวเตอร์ ภาคปกติ (หลักสูตร ไทย)",
+        program: "โครงการรับนักเรียนที่มีอัจฉริยภาพทางคอมพิวเตอร์",
         author: "Non",
         language: "th",
         pages: 12,
@@ -81,8 +81,8 @@ exports.portfoioConfig = [
     },
     {
         id: "3",
-        name: "CPE KMITL Portfolio มหาลัย",
-        description: "Portfolio ส่ง KMITL",
+        name: "วิศวกรรมคอมพิวเตอร์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+        description: "โครงการผลการทดสอบวัดความรู้ทางวิชาการ (คณะวิศวกรรมศาสตร์) สาขาวิศวกรรมคอมพิวเตอร์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/CPE/1.png",
             inner: [
@@ -110,8 +110,8 @@ exports.portfoioConfig = [
     },
     {
         id: "4",
-        name: "IT KMITL Portfolio มหาลัย",
-        description: "Portfolio ส่ง KMITL",
+        name: "เทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง(KMITL)",
+        description: "โครงการนักเรียนเรียนดีและมีความสนใจทางเทคโนโลยีสารสนเทศ (คณะเทคโนโลยีสารสนเทศ) สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/1.png",
             inner: [
@@ -153,8 +153,8 @@ exports.portfoioConfig = [
     },
     {
         id: "5",
-        name: "CPE QUOTA KMUTT Portfolio มหาลัย",
-        description: "Portfolio ส่ง QUOTA KMUTT",
+        name: "(QUOTA)(V1) วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+        description: "โครงการรับนักศึกษาโควตาโรงเรียนกลุ่มเป้าหมาย(QUOTA) สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA/1.png",
             inner: [
@@ -174,7 +174,7 @@ exports.portfoioConfig = [
             ]
         },
         tags: [
-            "KMUTT", "Non"
+            "KMUTT", "Non", "QUOTA", "V1"
         ],
         university: "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี(KMUTT)",
         faculty: "engineering",
@@ -192,8 +192,8 @@ exports.portfoioConfig = [
     },
     {
         id: "6",
-        name: "SIT KMUTT Portfolio มหาลัย",
-        description: "Portfolio ส่ง KU",
+        name: "เทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+        description: "โครงการ Early Active Recruitment สาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/1.png",
             inner: [
@@ -231,8 +231,8 @@ exports.portfoioConfig = [
     },
     {
         id: "7",
-        name: "CPE KU Portfolio มหาลัย",
-        description: "Portfolio ส่ง KU",
+        name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
+        description: "โครงการช้างเผือก สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/1.png",
             inner: [
@@ -268,8 +268,8 @@ exports.portfoioConfig = [
     },
     {
         id: "8",
-        name: "CPE MFU Portfolio มหาลัย",
-        description: "Portfolio ส่ง MFU",
+        name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยแม่ฟ้าหลวง",
+        description: "โครงการรับตรงสำนักวิชา สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยแม่ฟ้าหลวง",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/1.png",
             inner: [
@@ -304,8 +304,8 @@ exports.portfoioConfig = [
     },
     {
         id: "9",
-        name: "V2 CPE KMUTT Portfolio มหาลัย",
-        description: "Portfolio ส่ง KMUTT",
+        name: "(QUOTA)(V2) วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+        description: "โครงการรับนักศึกษาโควตาโรงเรียนกลุ่มเป้าหมาย สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/1.png",
             inner: [
@@ -322,7 +322,7 @@ exports.portfoioConfig = [
             ]
         },
         tags: [
-            "KMUTT", "Non"
+            "KMUTT", "Non", "QUOTA", "V2"
         ],
         university: "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี(KMUTT)",
         faculty: "engineering",
@@ -340,8 +340,8 @@ exports.portfoioConfig = [
     },
     {
         id: "10",
-        name: "AR CPE KMUTT Portfolio มหาลัย",
-        description: "Portfolio ส่ง KMUTT",
+        name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+        description: "โครงการ Active Recruitment สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_AR/1.png",
             inner: [
@@ -434,8 +434,8 @@ exports.portfoioConfig = [
     },
     {
         id: "12",
-        name: "SBTVC Portfolio หมาๆ",
-        description: "Portfolio หมาๆ",
+        name: "เทคโนโลยีสารสนเทศ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี)",
+        description: "โครงการวิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์ พาณิชยกรรมเเละบริการฐานวิทยาศาสตร์ สาขาเทคโนโลยีสารสนเทศ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี)",
         sources: {
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/SBTVC/1.png",
             inner: [
@@ -470,9 +470,9 @@ exports.portfoioConfig = [
             ]
         },
         tags: [
-            "SBTVC", "Non", ""
+            "SBTVC", "Non", "พาณิชยกรรมเเละบริการฐานวิทยาศาสตร์", "IT#2"
         ],
-        university: "Science-Based Technology Vocational College (Chonburi)",
+        university: "วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี)(SBTVC)",
         faculty: "พาณิชยกรรมเเละบริการฐานวิทยาศาสตร์",
         branch: ["เทคโนโลยีสารสนเทศ", "Information Technology", "IT"],
         program: "โครงการวิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์",
