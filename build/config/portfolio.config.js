@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.portfoioConfig = void 0;
 exports.portfoioConfig = [
     {
-        enable: false,
+        enable: true,
         id: "1",
         name: "วิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล จุฬาลงกรณ์มหาวิทยาลัย",
         description: "โครงการรับนักเรียนผู้มีความสามารถทางวิชาการเข้าศึกษาในหลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
@@ -12,8 +12,8 @@ exports.portfoioConfig = [
             inner: [
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/1.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/2.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/3.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/3_sensor.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/4_sensor.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/5.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/6.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CU/CEDT/7.png",
@@ -38,8 +38,8 @@ exports.portfoioConfig = [
         type: "portfolio",
         categories: ["popular"],
         results: {
-            interview: true,
-            pass: true
+            interview: false,
+            pass: false
         }
     },
     {
@@ -236,7 +236,7 @@ exports.portfoioConfig = [
         }
     },
     {
-        enable: false,
+        enable: true,
         id: "7",
         name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
         description: "โครงการช้างเผือก สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
@@ -245,8 +245,8 @@ exports.portfoioConfig = [
             inner: [
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/1.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/2.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/3.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/3_sensor.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/4_sensor.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/5.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/6.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KU/CPE/7.png",
@@ -269,8 +269,8 @@ exports.portfoioConfig = [
         type: "portfolio",
         categories: ["popular"],
         results: {
-            interview: true,
-            pass: true
+            interview: false,
+            pass: false
         }
     },
     {
