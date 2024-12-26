@@ -3,6 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.portfoioConfig = void 0;
 exports.portfoioConfig = [
     {
+        enable: false,
         id: "1",
         name: "วิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล จุฬาลงกรณ์มหาวิทยาลัย",
         description: "โครงการรับนักเรียนผู้มีความสามารถทางวิชาการเข้าศึกษาในหลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
@@ -42,6 +43,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: false,
         id: "2",
         name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเชียงใหม่",
         description: "โครงการรับนักเรียนที่มีอัจฉริยภาพทางคอมพิวเตอร์ สาขาวิศวกรรมคอมพิวเตอร์ ภาคปกติ (หลักสูตร ไทย) มหาวิทยาลัยเชียงใหม่",
@@ -80,6 +82,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: false,
         id: "3",
         name: "วิศวกรรมคอมพิวเตอร์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
         description: "โครงการผลการทดสอบวัดความรู้ทางวิชาการ (คณะวิศวกรรมศาสตร์) สาขาวิศวกรรมคอมพิวเตอร์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
@@ -109,6 +112,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: false,
         id: "4",
         name: "เทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง(KMITL)",
         description: "โครงการนักเรียนเรียนดีและมีความสนใจทางเทคโนโลยีสารสนเทศ (คณะเทคโนโลยีสารสนเทศ) สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
@@ -152,6 +156,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: false,
         id: "5",
         name: "(QUOTA)(V1) วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
         description: "โครงการรับนักศึกษาโควตาโรงเรียนกลุ่มเป้าหมาย(QUOTA) สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
@@ -191,6 +196,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: true,
         id: "6",
         name: "เทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
         description: "โครงการ Early Active Recruitment สาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
@@ -199,8 +205,8 @@ exports.portfoioConfig = [
             inner: [
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/1.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/2.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/3.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/3_sensor.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/4_sensor.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/5.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/6.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/7.png",
@@ -230,6 +236,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: false,
         id: "7",
         name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
         description: "โครงการช้างเผือก สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
@@ -267,6 +274,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: true,
         id: "8",
         name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยแม่ฟ้าหลวง",
         description: "โครงการรับตรงสำนักวิชา สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยแม่ฟ้าหลวง",
@@ -275,8 +283,8 @@ exports.portfoioConfig = [
             inner: [
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/1.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/2.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/3.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/3_sensor.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/4_sensor.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/5.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/6.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/7.png",
@@ -303,6 +311,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: true,
         id: "9",
         name: "(QUOTA)(V2) วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
         description: "โครงการรับนักศึกษาโควตาโรงเรียนกลุ่มเป้าหมาย สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
@@ -311,8 +320,8 @@ exports.portfoioConfig = [
             inner: [
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/1.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/2.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/3.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/3_sensor.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/4_sensor.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/5.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/6.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/7.png",
@@ -339,6 +348,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: false,
         id: "10",
         name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
         description: "โครงการ Active Recruitment สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
@@ -375,6 +385,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: false,
         id: "11",
         name: "MASTER Portfolio มหาลัย",
         description: "Portfolio Template สำหรับไปประกอบเเต่ละมหาลัย",
@@ -433,6 +444,7 @@ exports.portfoioConfig = [
         }
     },
     {
+        enable: false,
         id: "12",
         name: "เทคโนโลยีสารสนเทศ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี)",
         description: "โครงการวิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์ พาณิชยกรรมเเละบริการฐานวิทยาศาสตร์ สาขาเทคโนโลยีสารสนเทศ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี)",

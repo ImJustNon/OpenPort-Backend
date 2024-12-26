@@ -11,6 +11,7 @@ export type PortfolioResult = {
     pass: boolean;
 }
 export interface PortfolioConfig {
+    enable: boolean;
     id: string;
     name: string;
     description: string;
