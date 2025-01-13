@@ -51,8 +51,8 @@ exports.portfoioConfig = [
             cover: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/1.png",
             inner: [
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/1.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/2.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/3.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/2_sensor.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/3_sensor.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/4.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/5.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/6.png",
