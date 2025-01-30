@@ -2,7 +2,7 @@ import { PortfolioConfig } from "../types/index.type";
 
 export const portfoioConfig: PortfolioConfig[] = [
     {
-        enable: true,
+        enable: false,
         id: "1",
         name: "วิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล จุฬาลงกรณ์มหาวิทยาลัย",
         description: "โครงการรับนักเรียนผู้มีความสามารถทางวิชาการเข้าศึกษาในหลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตร Sandbox) คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
@@ -111,7 +111,7 @@ export const portfoioConfig: PortfolioConfig[] = [
         }
     },
     {
-        enable: false,
+        enable: true,
         id: "4",
         name: "เทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง(KMITL)",
         description: "โครงการนักเรียนเรียนดีและมีความสนใจทางเทคโนโลยีสารสนเทศ (คณะเทคโนโลยีสารสนเทศ) สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
@@ -120,8 +120,8 @@ export const portfoioConfig: PortfolioConfig[] = [
             inner: [
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/1.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/2.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/3.png",
-                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/4.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/3_sensor.png",
+                "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/4_sensor.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/5.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/6.png",
                 "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/7.png",
@@ -235,7 +235,7 @@ export const portfoioConfig: PortfolioConfig[] = [
         }
     },
     {
-        enable: true,
+        enable: false,
         id: "7",
         name: "วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
         description: "โครงการช้างเผือก สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน",
