@@ -25,12 +25,12 @@ function portfolioDownloadController(req, res) {
             });
         try {
             const isPdfAvailable = portfolio_config_1.portfoioConfig.find((p) => p.id === id);
-            if (!isPdfAvailable)
+            if (!isPdfAvailable || !isPdfAvailable.download || !isPdfAvailable.download.pdf)
                 return res.status(404).json({
                     status: "FAIL",
                     message: "PDF is unavailable"
                 });
-            const response = yield axios_1.default.get("https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/PDF/Portfolio.pdf", {
+            const response = yield axios_1.default.get(isPdfAvailable.download.pdf, {
                 responseType: 'stream',
             });
             res.setHeader('Content-Type', 'application/pdf');
