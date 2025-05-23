@@ -4,4 +4,4 @@ const router: Router = express.Router();
 
 router.post("/v1/user/register", userRegisterController);
 router.post("/v1/user/auth", );
-router.post("/v1/user/password/reset")
+router.post("/v1/user/password/reset");

@@ -14,12 +14,12 @@ export async function portfolioDownloadController(req: Request, res: Response): 
     try {
         const isPdfAvailable = portfoioConfig.find((p) => p.id === id);
 
-        if(!isPdfAvailable) return res.status(404).json({
+        if(!isPdfAvailable || !isPdfAvailable.download || !isPdfAvailable.download.pdf) return res.status(404).json({
             status: "FAIL",
             message: "PDF is unavailable"
         });
 
-        const response = await axios.get("https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/PDF/Portfolio.pdf", {
+        const response = await axios.get(isPdfAvailable.download.pdf, {
             responseType: 'stream',
         });
 
