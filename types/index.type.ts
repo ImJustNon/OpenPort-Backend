@@ -27,4 +27,7 @@ export interface PortfolioConfig {
     type: string;
     categories: string[];
     results: PortfolioResult;
+    download?: {
+        pdf?: string;
+    };
 }

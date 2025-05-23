@@ -78,6 +78,9 @@ export const portfoioConfig: PortfolioConfig[] = [
         results: {
             interview: true,
             pass: true
+        },
+        download: {
+            pdf: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/CMU/CPE/PDF/Portfolio.pdf"
         }
     },
     {
@@ -152,6 +155,9 @@ export const portfoioConfig: PortfolioConfig[] = [
         results: {
             interview: true,
             pass: true
+        },
+        download: {
+            pdf: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMITL/IT/PDF/Portfolio.pdf"
         }
     },
     {
@@ -232,6 +238,9 @@ export const portfoioConfig: PortfolioConfig[] = [
         results: {
             interview: true,
             pass: true
+        },
+        download: {
+            pdf: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/SIT/PDF/Portfolio.pdf"
         }
     },
     {
@@ -307,6 +316,9 @@ export const portfoioConfig: PortfolioConfig[] = [
         results: {
             interview: true,
             pass: true
+        },
+        download: {
+            pdf: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/MFU/CPE/PDF/Portfolio.pdf"
         }
     },
     {
@@ -344,6 +356,9 @@ export const portfoioConfig: PortfolioConfig[] = [
         results: {
             interview: true,
             pass: true
+        },
+        download: {
+            pdf: "https://gitlab.com/ImJustNon/openport-assets/-/raw/main/Non/KMUTT/CPE_QUOTA_V2/PDF/Portfolio.pdf"
         }
     },
     {
