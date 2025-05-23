@@ -4,10 +4,12 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const port_details_controller_1 = require("../controllers/port_details.controller");
+const port_download_controller_1 = require("../controllers/port_download.controller");
 const port_popular_controller_1 = require("../controllers/port_popular.controller");
 const express_1 = __importDefault(require("express"));
 const router = express_1.default.Router();
 router.get("/v1/portfolio/popular", port_popular_controller_1.portfolioPopularController);
 router.get("/v1/portfolio/details/:id", port_details_controller_1.portfolioDetailsController);
+router.get("/v1/portfolio/download/:id", port_download_controller_1.portfolioDownloadController);
 exports.default = router;
 //# sourceMappingURL=portfolio.route.js.map

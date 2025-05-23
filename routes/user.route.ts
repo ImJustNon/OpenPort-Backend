@@ -1,4 +1,4 @@
-import { userRegisterController } from "controllers/user_register.controller";
+import { userRegisterController } from "../controllers/user_register.controller";
 import express, { Router } from "express";
 const router: Router = express.Router();
 
